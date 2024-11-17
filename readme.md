@@ -43,7 +43,8 @@
 
 ## 关注我们
 扫描下方二维码关注公众号：Datawhale
- ![](./image/datawhale.jpg)
+
+![](./image/datawhale.jpg)
 
 ## LICENSE
 知识共享许可协议
